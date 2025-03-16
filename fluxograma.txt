@@ -1,0 +1,8 @@
+terminal: indica o inicio ou fim -> inicio do algoritmo 
+processamento: processamento geral -> calculo de dois números 
+entrada/saída: entrada/saída de dados -> leitura e gravação de arquivos 
+decisão: decisão a ser tomada -> verificação de sexo 
+desvio: permite o desvio para um ponto do programa 
+entrada manual: indica entrada através do teclado -> digite a nota 1 na prova 
+exibir: exibir informação e resultado -> mostre o resultado do calculo 
+relatório: relatórios 
